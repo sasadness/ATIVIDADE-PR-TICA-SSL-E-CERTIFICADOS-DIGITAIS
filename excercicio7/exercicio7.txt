@@ -1,0 +1,1 @@
+Ao executar o servidor Python com suporte a SSL/TLS na porta 8443, estamos simulando um ambiente de produção seguro. No entanto, o navegador exibirá um alerta de "Conexão não segura". Isso ocorre porque o certificado é autoassinado e não possui uma cadeia de confiança reconhecida por uma Autoridade Certificadora oficial presente na base de dados do navegador.
