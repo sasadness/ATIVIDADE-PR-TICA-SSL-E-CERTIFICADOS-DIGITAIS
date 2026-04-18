@@ -1,0 +1,1 @@
+A criação de um diretório específico em /etc/ssl/certificates serve para organizar e centralizar os arquivos de segurança do sistema. Manter chaves e certificados em locais padronizados facilita a administração do servidor e permite aplicar permissões de acesso restritas, garantindo que apenas usuários autorizados (como o root) possam ler chaves privadas sensíveis.
