@@ -1,0 +1,1 @@
+O SCP é um protocolo baseado no SSH (Secure Shell) utilizado para transferir arquivos entre máquinas de forma segura através de uma rede. Diferente do FTP comum, o SCP criptografa tanto o arquivo quanto as credenciais de autenticação, impedindo que terceiros capturem a chave ou o certificado durante o trânsito entre os servidores.
