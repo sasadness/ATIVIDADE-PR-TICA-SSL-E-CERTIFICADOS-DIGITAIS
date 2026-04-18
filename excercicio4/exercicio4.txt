@@ -1,0 +1,1 @@
+O CSR (Solicitação de Assinatura de Certificado) é um bloco de texto codificado que contém a chave pública e informações sobre a entidade (nome, organização, localidade). Em um cenário real, este arquivo é enviado para uma Autoridade Certificadora (CA). A CA verifica as informações e, se tudo estiver correto, utiliza o CSR para gerar o certificado digital final assinado por ela.
