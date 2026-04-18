@@ -1,0 +1,1 @@
+Como não estamos utilizando uma Autoridade Certificadora comercial, geramos um certificado "autoassinado" (self-signed). Neste processo, usamos nossa própria chave privada para assinar o documento. O certificado (.crt) contém a chave pública e a identidade do servidor, servindo para estabelecer o túnel criptografado entre o servidor e o cliente (navegador).
